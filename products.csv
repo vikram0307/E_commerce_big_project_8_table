@@ -1,0 +1,501 @@
+product_id,product_name,category,price,stock_quantity
+PROD0001,Headphones Model-79,Electronics,32647.93,446
+PROD0002,Jackets Model-28,Clothing,1643.09,245
+PROD0003,Wall Clock Model-12,Home Decor,5234.1,171
+PROD0004,Smartphone Model-98,Electronics,68933.11,84
+PROD0005,Jackets Model-80,Clothing,1723.35,427
+PROD0006,Bedsheet Model-78,Home Decor,6962.23,492
+PROD0007,Lipstick Model-11,Beauty,2288.0,161
+PROD0008,Moisturizer Model-48,Beauty,362.09,438
+PROD0009,Jackets Model-36,Clothing,3479.84,122
+PROD0010,Saree Model-90,Clothing,1473.58,265
+PROD0011,Face Wash Model-45,Beauty,2186.14,358
+PROD0012,Lipstick Model-62,Beauty,2327.27,243
+PROD0013,Sofa Cover Model-22,Home Decor,6630.33,85
+PROD0014,Vase Model-18,Home Decor,2944.48,317
+PROD0015,Sofa Cover Model-98,Home Decor,413.34,155
+PROD0016,Laptop Model-90,Electronics,34090.27,84
+PROD0017,T-Shirt Model-61,Clothing,1040.28,392
+PROD0018,Wall Clock Model-83,Home Decor,841.41,350
+PROD0019,Jeans Model-76,Clothing,2940.19,444
+PROD0020,Dress Model-97,Clothing,1818.17,420
+PROD0021,Sofa Cover Model-71,Home Decor,7013.35,433
+PROD0022,Jackets Model-32,Clothing,2843.63,369
+PROD0023,Wall Clock Model-35,Home Decor,858.31,27
+PROD0024,Curtain Model-60,Home Decor,7035.84,316
+PROD0025,T-Shirt Model-12,Clothing,3715.52,173
+PROD0026,T-Shirt Model-69,Clothing,1033.58,168
+PROD0027,T-Shirt Model-61,Clothing,2586.61,267
+PROD0028,Curtain Model-21,Home Decor,7672.66,362
+PROD0029,Dress Model-25,Clothing,352.23,73
+PROD0030,Lipstick Model-96,Beauty,1311.25,150
+PROD0031,Jeans Model-34,Clothing,3800.39,444
+PROD0032,Wall Clock Model-73,Home Decor,3180.17,371
+PROD0033,Shampoo Model-86,Beauty,656.58,303
+PROD0034,Curtain Model-63,Home Decor,1606.89,254
+PROD0035,T-Shirt Model-47,Clothing,3911.67,333
+PROD0036,Dress Model-67,Clothing,3657.11,434
+PROD0037,Vase Model-97,Home Decor,5248.44,120
+PROD0038,Smartphone Model-70,Electronics,11290.56,263
+PROD0039,Sofa Cover Model-97,Home Decor,1855.3,159
+PROD0040,Lipstick Model-86,Beauty,752.13,370
+PROD0041,Powerbank Model-17,Electronics,5330.28,202
+PROD0042,Saree Model-55,Clothing,3987.94,40
+PROD0043,Smartphone Model-42,Electronics,38583.84,424
+PROD0044,Moisturizer Model-60,Beauty,1727.47,180
+PROD0045,Dress Model-15,Clothing,2447.8,88
+PROD0046,Curtain Model-74,Home Decor,4044.15,433
+PROD0047,Sofa Cover Model-26,Home Decor,899.25,376
+PROD0048,Shampoo Model-43,Beauty,424.58,117
+PROD0049,Laptop Model-73,Electronics,65568.45,444
+PROD0050,Wall Clock Model-65,Home Decor,2406.82,385
+PROD0051,Vase Model-43,Home Decor,4232.39,488
+PROD0052,Shampoo Model-50,Beauty,1881.64,424
+PROD0053,Shampoo Model-81,Beauty,2154.63,125
+PROD0054,Face Wash Model-34,Beauty,499.26,368
+PROD0055,Jeans Model-14,Clothing,2039.92,386
+PROD0056,Saree Model-65,Clothing,729.29,36
+PROD0057,Face Wash Model-66,Beauty,987.82,482
+PROD0058,Lipstick Model-73,Beauty,414.35,453
+PROD0059,T-Shirt Model-54,Clothing,646.24,407
+PROD0060,Curtain Model-31,Home Decor,6049.51,101
+PROD0061,Vase Model-94,Home Decor,4768.28,448
+PROD0062,Powerbank Model-83,Electronics,14771.81,259
+PROD0063,Laptop Model-73,Electronics,51252.78,382
+PROD0064,Bedsheet Model-46,Home Decor,5514.24,210
+PROD0065,Smartwatch Model-57,Electronics,44889.88,163
+PROD0066,Headphones Model-29,Electronics,3622.28,427
+PROD0067,Lipstick Model-68,Beauty,1626.64,347
+PROD0068,Vase Model-94,Home Decor,245.28,477
+PROD0069,Powerbank Model-67,Electronics,25381.29,444
+PROD0070,Jeans Model-16,Clothing,3265.76,91
+PROD0071,Wall Clock Model-17,Home Decor,6001.64,21
+PROD0072,Face Wash Model-61,Beauty,749.64,290
+PROD0073,Saree Model-21,Clothing,375.89,210
+PROD0074,Jeans Model-59,Clothing,3184.12,182
+PROD0075,Curtain Model-25,Home Decor,2528.66,226
+PROD0076,Moisturizer Model-97,Beauty,1568.26,357
+PROD0077,Bedsheet Model-57,Home Decor,4198.7,252
+PROD0078,Lipstick Model-59,Beauty,1269.63,188
+PROD0079,Face Wash Model-64,Beauty,2055.84,397
+PROD0080,Saree Model-90,Clothing,1876.26,210
+PROD0081,Powerbank Model-53,Electronics,73035.48,210
+PROD0082,Jeans Model-73,Clothing,2250.93,46
+PROD0083,Headphones Model-69,Electronics,33645.63,280
+PROD0084,Moisturizer Model-29,Beauty,2462.84,382
+PROD0085,Curtain Model-76,Home Decor,3536.31,154
+PROD0086,Powerbank Model-19,Electronics,68921.7,154
+PROD0087,Powerbank Model-64,Electronics,31856.93,366
+PROD0088,Perfume Model-42,Beauty,985.33,482
+PROD0089,Powerbank Model-12,Electronics,9874.26,109
+PROD0090,Shampoo Model-33,Beauty,2130.84,368
+PROD0091,Smartphone Model-63,Electronics,65941.52,448
+PROD0092,Wall Clock Model-85,Home Decor,5847.94,290
+PROD0093,Perfume Model-43,Beauty,952.14,211
+PROD0094,Jeans Model-33,Clothing,589.42,59
+PROD0095,Bedsheet Model-65,Home Decor,4368.13,77
+PROD0096,Smartwatch Model-24,Electronics,2477.89,175
+PROD0097,Lipstick Model-98,Beauty,1101.97,395
+PROD0098,Moisturizer Model-89,Beauty,2060.86,415
+PROD0099,Sofa Cover Model-48,Home Decor,883.55,307
+PROD0100,T-Shirt Model-34,Clothing,714.08,453
+PROD0101,Laptop Model-13,Electronics,16878.37,422
+PROD0102,Jeans Model-65,Clothing,3415.73,37
+PROD0103,T-Shirt Model-48,Clothing,3147.97,445
+PROD0104,Saree Model-64,Clothing,380.72,488
+PROD0105,Jeans Model-99,Clothing,1947.48,373
+PROD0106,Lipstick Model-12,Beauty,2170.52,165
+PROD0107,Jeans Model-47,Clothing,2406.89,244
+PROD0108,Face Wash Model-52,Beauty,168.5,345
+PROD0109,Lipstick Model-73,Beauty,1882.13,93
+PROD0110,Bedsheet Model-72,Home Decor,3317.51,305
+PROD0111,Shampoo Model-17,Beauty,1391.53,80
+PROD0112,Perfume Model-50,Beauty,1450.15,236
+PROD0113,Sofa Cover Model-70,Home Decor,1112.14,366
+PROD0114,Sofa Cover Model-99,Home Decor,3602.59,257
+PROD0115,Jackets Model-34,Clothing,2036.19,159
+PROD0116,Shampoo Model-74,Beauty,666.3,469
+PROD0117,Vase Model-94,Home Decor,3854.04,84
+PROD0118,Sofa Cover Model-63,Home Decor,6698.03,117
+PROD0119,Sofa Cover Model-30,Home Decor,5050.37,121
+PROD0120,Bedsheet Model-95,Home Decor,3966.54,421
+PROD0121,Jeans Model-30,Clothing,2541.27,393
+PROD0122,Smartwatch Model-73,Electronics,23818.41,110
+PROD0123,Dress Model-16,Clothing,3997.27,386
+PROD0124,Wall Clock Model-55,Home Decor,5480.04,343
+PROD0125,Dress Model-14,Clothing,3285.22,14
+PROD0126,Sofa Cover Model-24,Home Decor,5016.99,195
+PROD0127,Powerbank Model-38,Electronics,37247.85,381
+PROD0128,Wall Clock Model-15,Home Decor,6206.74,448
+PROD0129,Curtain Model-98,Home Decor,7014.83,304
+PROD0130,Smartphone Model-66,Electronics,60225.54,62
+PROD0131,Smartphone Model-88,Electronics,46309.7,357
+PROD0132,Powerbank Model-15,Electronics,38786.97,412
+PROD0133,T-Shirt Model-36,Clothing,3670.65,449
+PROD0134,Jackets Model-66,Clothing,3119.27,85
+PROD0135,Face Wash Model-29,Beauty,1670.67,202
+PROD0136,Curtain Model-25,Home Decor,6819.04,496
+PROD0137,Lipstick Model-10,Beauty,726.49,228
+PROD0138,Moisturizer Model-46,Beauty,1336.8,357
+PROD0139,Headphones Model-57,Electronics,54067.18,440
+PROD0140,Moisturizer Model-90,Beauty,1712.74,96
+PROD0141,Dress Model-63,Clothing,3212.7,484
+PROD0142,Saree Model-62,Clothing,3696.67,38
+PROD0143,Perfume Model-97,Beauty,1000.17,59
+PROD0144,Smartwatch Model-28,Electronics,58106.16,192
+PROD0145,Smartphone Model-53,Electronics,24638.14,252
+PROD0146,Saree Model-17,Clothing,1755.09,101
+PROD0147,Laptop Model-83,Electronics,5749.02,493
+PROD0148,Sofa Cover Model-61,Home Decor,7109.11,36
+PROD0149,Wall Clock Model-54,Home Decor,261.64,70
+PROD0150,Vase Model-88,Home Decor,7379.51,273
+PROD0151,Lipstick Model-92,Beauty,632.06,342
+PROD0152,Moisturizer Model-93,Beauty,1100.59,183
+PROD0153,Jackets Model-20,Clothing,436.79,313
+PROD0154,Sofa Cover Model-26,Home Decor,4259.66,232
+PROD0155,Curtain Model-21,Home Decor,4191.04,86
+PROD0156,Vase Model-53,Home Decor,6104.96,331
+PROD0157,T-Shirt Model-13,Clothing,3594.18,379
+PROD0158,Curtain Model-48,Home Decor,5866.77,216
+PROD0159,Smartphone Model-57,Electronics,20592.1,135
+PROD0160,Bedsheet Model-16,Home Decor,6101.17,27
+PROD0161,Smartwatch Model-48,Electronics,43573.99,70
+PROD0162,Smartwatch Model-53,Electronics,73746.87,133
+PROD0163,Jackets Model-48,Clothing,1352.78,213
+PROD0164,Saree Model-76,Clothing,3028.8,260
+PROD0165,Headphones Model-76,Electronics,44304.12,164
+PROD0166,Sofa Cover Model-22,Home Decor,1343.12,362
+PROD0167,Lipstick Model-20,Beauty,366.78,315
+PROD0168,Shampoo Model-70,Beauty,654.74,498
+PROD0169,Headphones Model-96,Electronics,40179.79,98
+PROD0170,Moisturizer Model-84,Beauty,1322.24,344
+PROD0171,Lipstick Model-98,Beauty,2337.93,391
+PROD0172,Lipstick Model-30,Beauty,489.21,202
+PROD0173,Saree Model-68,Clothing,778.73,407
+PROD0174,Laptop Model-68,Electronics,36291.63,364
+PROD0175,Dress Model-57,Clothing,3710.28,417
+PROD0176,Powerbank Model-62,Electronics,9609.71,353
+PROD0177,Vase Model-47,Home Decor,514.2,347
+PROD0178,T-Shirt Model-57,Clothing,1428.22,55
+PROD0179,Wall Clock Model-47,Home Decor,3990.22,408
+PROD0180,Jeans Model-85,Clothing,1860.5,247
+PROD0181,Wall Clock Model-37,Home Decor,1628.0,452
+PROD0182,Face Wash Model-25,Beauty,1436.71,428
+PROD0183,Smartphone Model-63,Electronics,36866.47,342
+PROD0184,Vase Model-67,Home Decor,7222.24,205
+PROD0185,Lipstick Model-87,Beauty,462.1,150
+PROD0186,Dress Model-91,Clothing,2005.46,333
+PROD0187,Lipstick Model-29,Beauty,2185.91,344
+PROD0188,Bedsheet Model-89,Home Decor,5383.12,237
+PROD0189,Lipstick Model-39,Beauty,2265.57,198
+PROD0190,Vase Model-15,Home Decor,7673.02,15
+PROD0191,Moisturizer Model-92,Beauty,358.05,71
+PROD0192,T-Shirt Model-83,Clothing,2631.4,69
+PROD0193,Vase Model-92,Home Decor,1165.5,52
+PROD0194,Laptop Model-89,Electronics,41324.82,72
+PROD0195,Powerbank Model-76,Electronics,15420.6,260
+PROD0196,Perfume Model-12,Beauty,432.67,338
+PROD0197,T-Shirt Model-45,Clothing,3211.0,352
+PROD0198,Dress Model-66,Clothing,613.2,475
+PROD0199,Sofa Cover Model-85,Home Decor,550.87,270
+PROD0200,Headphones Model-65,Electronics,14767.34,125
+PROD0201,Powerbank Model-50,Electronics,29577.81,21
+PROD0202,Smartphone Model-22,Electronics,41320.78,310
+PROD0203,Curtain Model-33,Home Decor,2193.33,303
+PROD0204,Laptop Model-49,Electronics,71484.11,303
+PROD0205,T-Shirt Model-88,Clothing,3856.16,255
+PROD0206,T-Shirt Model-17,Clothing,1402.69,150
+PROD0207,Headphones Model-28,Electronics,31842.48,365
+PROD0208,Wall Clock Model-58,Home Decor,7544.3,391
+PROD0209,Smartphone Model-35,Electronics,19112.29,58
+PROD0210,Saree Model-75,Clothing,3083.84,416
+PROD0211,Face Wash Model-44,Beauty,292.49,313
+PROD0212,Perfume Model-62,Beauty,303.83,102
+PROD0213,Smartwatch Model-91,Electronics,18679.92,206
+PROD0214,Headphones Model-80,Electronics,72315.39,257
+PROD0215,Laptop Model-81,Electronics,49388.99,340
+PROD0216,Jackets Model-82,Clothing,1804.96,369
+PROD0217,Powerbank Model-36,Electronics,59041.8,232
+PROD0218,Jackets Model-79,Clothing,3945.64,162
+PROD0219,Dress Model-64,Clothing,3857.0,302
+PROD0220,Face Wash Model-10,Beauty,2059.71,74
+PROD0221,Curtain Model-10,Home Decor,669.37,60
+PROD0222,Moisturizer Model-86,Beauty,739.59,176
+PROD0223,Moisturizer Model-90,Beauty,649.97,42
+PROD0224,Bedsheet Model-30,Home Decor,5965.63,375
+PROD0225,Headphones Model-21,Electronics,30554.91,475
+PROD0226,Laptop Model-81,Electronics,74913.36,451
+PROD0227,Shampoo Model-88,Beauty,1336.33,417
+PROD0228,Wall Clock Model-91,Home Decor,2238.61,285
+PROD0229,Moisturizer Model-41,Beauty,1706.35,104
+PROD0230,Wall Clock Model-36,Home Decor,3786.43,217
+PROD0231,Bedsheet Model-98,Home Decor,1243.06,426
+PROD0232,Powerbank Model-70,Electronics,1814.52,368
+PROD0233,Laptop Model-62,Electronics,42350.61,20
+PROD0234,Lipstick Model-78,Beauty,340.7,211
+PROD0235,Powerbank Model-13,Electronics,67104.06,294
+PROD0236,Face Wash Model-55,Beauty,2434.29,428
+PROD0237,Perfume Model-55,Beauty,1058.86,284
+PROD0238,Smartphone Model-69,Electronics,28730.33,411
+PROD0239,Saree Model-11,Clothing,1119.63,425
+PROD0240,Headphones Model-97,Electronics,69222.8,281
+PROD0241,Curtain Model-21,Home Decor,6566.99,260
+PROD0242,Curtain Model-39,Home Decor,7844.93,42
+PROD0243,Bedsheet Model-45,Home Decor,4044.14,275
+PROD0244,T-Shirt Model-35,Clothing,3941.78,438
+PROD0245,Face Wash Model-45,Beauty,1487.39,309
+PROD0246,Shampoo Model-80,Beauty,605.36,285
+PROD0247,T-Shirt Model-85,Clothing,774.51,375
+PROD0248,Laptop Model-43,Electronics,70116.91,429
+PROD0249,Dress Model-45,Clothing,1009.85,414
+PROD0250,Powerbank Model-88,Electronics,20089.7,343
+PROD0251,Face Wash Model-64,Beauty,1656.27,73
+PROD0252,Headphones Model-65,Electronics,63559.1,395
+PROD0253,Moisturizer Model-25,Beauty,1748.41,395
+PROD0254,Lipstick Model-56,Beauty,1365.55,116
+PROD0255,Laptop Model-16,Electronics,21928.08,347
+PROD0256,Perfume Model-67,Beauty,893.17,469
+PROD0257,Shampoo Model-52,Beauty,342.25,70
+PROD0258,Laptop Model-98,Electronics,32650.79,102
+PROD0259,Laptop Model-35,Electronics,13589.4,451
+PROD0260,Bedsheet Model-90,Home Decor,5077.3,316
+PROD0261,Smartwatch Model-65,Electronics,60892.34,365
+PROD0262,Wall Clock Model-41,Home Decor,1041.16,102
+PROD0263,Jackets Model-16,Clothing,3340.05,12
+PROD0264,T-Shirt Model-86,Clothing,2592.4,294
+PROD0265,Smartwatch Model-84,Electronics,10674.74,238
+PROD0266,Smartphone Model-58,Electronics,24526.04,419
+PROD0267,Laptop Model-17,Electronics,69055.01,170
+PROD0268,Face Wash Model-48,Beauty,1585.24,72
+PROD0269,Face Wash Model-23,Beauty,1742.28,30
+PROD0270,Headphones Model-58,Electronics,31023.71,75
+PROD0271,Shampoo Model-86,Beauty,2000.57,304
+PROD0272,Smartwatch Model-59,Electronics,35619.37,115
+PROD0273,Perfume Model-89,Beauty,388.0,344
+PROD0274,Smartwatch Model-76,Electronics,25622.23,92
+PROD0275,T-Shirt Model-23,Clothing,345.47,54
+PROD0276,Powerbank Model-34,Electronics,67971.19,297
+PROD0277,Dress Model-42,Clothing,1614.95,141
+PROD0278,Perfume Model-66,Beauty,586.92,445
+PROD0279,T-Shirt Model-17,Clothing,772.42,395
+PROD0280,Perfume Model-93,Beauty,1922.78,27
+PROD0281,Vase Model-79,Home Decor,6248.87,53
+PROD0282,Saree Model-49,Clothing,2532.32,73
+PROD0283,Wall Clock Model-11,Home Decor,4237.91,269
+PROD0284,T-Shirt Model-40,Clothing,2176.3,162
+PROD0285,Smartwatch Model-54,Electronics,15862.42,196
+PROD0286,Jeans Model-18,Clothing,1563.74,288
+PROD0287,Lipstick Model-86,Beauty,1777.17,97
+PROD0288,Vase Model-48,Home Decor,3465.82,226
+PROD0289,T-Shirt Model-68,Clothing,3541.59,493
+PROD0290,Smartwatch Model-38,Electronics,69116.59,346
+PROD0291,Jeans Model-69,Clothing,2608.5,10
+PROD0292,Saree Model-52,Clothing,3286.9,137
+PROD0293,Shampoo Model-61,Beauty,582.97,163
+PROD0294,Headphones Model-11,Electronics,6919.24,33
+PROD0295,Powerbank Model-24,Electronics,11966.55,494
+PROD0296,Shampoo Model-90,Beauty,1526.36,494
+PROD0297,Bedsheet Model-13,Home Decor,1753.16,275
+PROD0298,Curtain Model-38,Home Decor,7105.98,473
+PROD0299,Jackets Model-80,Clothing,1210.07,410
+PROD0300,T-Shirt Model-32,Clothing,3418.66,160
+PROD0301,Smartphone Model-96,Electronics,11587.4,347
+PROD0302,Headphones Model-36,Electronics,23922.82,283
+PROD0303,Jackets Model-57,Clothing,2745.36,237
+PROD0304,Face Wash Model-25,Beauty,489.42,81
+PROD0305,Jeans Model-34,Clothing,2270.45,305
+PROD0306,Wall Clock Model-86,Home Decor,3550.41,261
+PROD0307,T-Shirt Model-88,Clothing,2473.11,365
+PROD0308,Curtain Model-51,Home Decor,2127.94,170
+PROD0309,Curtain Model-75,Home Decor,7753.4,277
+PROD0310,Shampoo Model-20,Beauty,1993.96,476
+PROD0311,Laptop Model-75,Electronics,30026.51,190
+PROD0312,Sofa Cover Model-76,Home Decor,3821.28,320
+PROD0313,Wall Clock Model-77,Home Decor,5617.18,285
+PROD0314,Lipstick Model-44,Beauty,1515.79,271
+PROD0315,Laptop Model-38,Electronics,67274.02,117
+PROD0316,Shampoo Model-60,Beauty,663.7,362
+PROD0317,Lipstick Model-83,Beauty,519.44,60
+PROD0318,Wall Clock Model-80,Home Decor,861.12,349
+PROD0319,Headphones Model-66,Electronics,39633.32,429
+PROD0320,Dress Model-15,Clothing,2021.44,32
+PROD0321,Sofa Cover Model-67,Home Decor,3846.9,131
+PROD0322,Moisturizer Model-73,Beauty,895.0,28
+PROD0323,Face Wash Model-32,Beauty,1187.97,106
+PROD0324,Bedsheet Model-55,Home Decor,7231.51,82
+PROD0325,Vase Model-75,Home Decor,4463.88,163
+PROD0326,Headphones Model-39,Electronics,8733.07,448
+PROD0327,Headphones Model-14,Electronics,41632.92,436
+PROD0328,Curtain Model-96,Home Decor,2768.08,120
+PROD0329,Wall Clock Model-34,Home Decor,5704.01,500
+PROD0330,Dress Model-43,Clothing,331.58,78
+PROD0331,Wall Clock Model-54,Home Decor,6308.4,318
+PROD0332,Lipstick Model-84,Beauty,1930.84,292
+PROD0333,Smartwatch Model-93,Electronics,39179.55,120
+PROD0334,Saree Model-39,Clothing,1139.63,312
+PROD0335,Saree Model-39,Clothing,2208.55,193
+PROD0336,Lipstick Model-53,Beauty,2011.0,152
+PROD0337,Curtain Model-64,Home Decor,6207.02,75
+PROD0338,Shampoo Model-66,Beauty,1207.43,383
+PROD0339,Headphones Model-27,Electronics,43946.87,328
+PROD0340,Jackets Model-11,Clothing,2149.26,226
+PROD0341,Wall Clock Model-38,Home Decor,3469.35,48
+PROD0342,Perfume Model-48,Beauty,916.29,291
+PROD0343,Powerbank Model-14,Electronics,69277.6,140
+PROD0344,Jackets Model-82,Clothing,2630.41,143
+PROD0345,Lipstick Model-36,Beauty,2379.43,205
+PROD0346,Powerbank Model-59,Electronics,15342.89,342
+PROD0347,Headphones Model-82,Electronics,72202.45,472
+PROD0348,Bedsheet Model-31,Home Decor,1013.64,93
+PROD0349,T-Shirt Model-98,Clothing,2532.45,214
+PROD0350,Laptop Model-35,Electronics,6607.59,243
+PROD0351,Moisturizer Model-36,Beauty,697.64,52
+PROD0352,Smartwatch Model-17,Electronics,28595.94,493
+PROD0353,Laptop Model-51,Electronics,64688.49,140
+PROD0354,Lipstick Model-30,Beauty,2475.55,356
+PROD0355,Dress Model-63,Clothing,2069.53,227
+PROD0356,Smartwatch Model-36,Electronics,11050.02,491
+PROD0357,Jackets Model-65,Clothing,3326.22,365
+PROD0358,Shampoo Model-87,Beauty,1501.46,83
+PROD0359,Vase Model-35,Home Decor,4119.31,284
+PROD0360,Moisturizer Model-35,Beauty,167.49,114
+PROD0361,Saree Model-18,Clothing,3350.96,46
+PROD0362,Dress Model-52,Clothing,3668.12,332
+PROD0363,Lipstick Model-69,Beauty,1503.91,385
+PROD0364,Headphones Model-92,Electronics,66253.06,147
+PROD0365,Moisturizer Model-99,Beauty,2130.2,334
+PROD0366,Sofa Cover Model-88,Home Decor,6622.75,366
+PROD0367,Saree Model-41,Clothing,964.44,340
+PROD0368,Lipstick Model-59,Beauty,2290.46,108
+PROD0369,Dress Model-22,Clothing,1756.14,375
+PROD0370,Laptop Model-30,Electronics,21622.56,200
+PROD0371,Bedsheet Model-99,Home Decor,5866.99,298
+PROD0372,Saree Model-62,Clothing,3971.84,346
+PROD0373,Headphones Model-19,Electronics,57021.67,341
+PROD0374,Sofa Cover Model-67,Home Decor,1485.75,430
+PROD0375,Dress Model-15,Clothing,2010.02,271
+PROD0376,Smartwatch Model-58,Electronics,26758.84,319
+PROD0377,Shampoo Model-60,Beauty,238.77,93
+PROD0378,Bedsheet Model-27,Home Decor,2751.46,224
+PROD0379,Lipstick Model-69,Beauty,310.36,430
+PROD0380,Saree Model-27,Clothing,2041.91,88
+PROD0381,Curtain Model-31,Home Decor,6740.27,171
+PROD0382,Laptop Model-47,Electronics,10625.13,413
+PROD0383,Shampoo Model-19,Beauty,1727.77,232
+PROD0384,Headphones Model-29,Electronics,33888.36,204
+PROD0385,Jeans Model-14,Clothing,3602.94,23
+PROD0386,Saree Model-99,Clothing,476.7,319
+PROD0387,Smartwatch Model-98,Electronics,24161.83,136
+PROD0388,Powerbank Model-10,Electronics,5076.86,49
+PROD0389,Shampoo Model-41,Beauty,1030.42,148
+PROD0390,Jeans Model-21,Clothing,359.34,73
+PROD0391,Smartphone Model-53,Electronics,61808.7,282
+PROD0392,Laptop Model-22,Electronics,60073.93,66
+PROD0393,Jeans Model-15,Clothing,1838.02,360
+PROD0394,Headphones Model-51,Electronics,42810.98,290
+PROD0395,Dress Model-36,Clothing,3757.01,218
+PROD0396,Lipstick Model-25,Beauty,696.16,43
+PROD0397,Headphones Model-51,Electronics,14261.18,178
+PROD0398,Moisturizer Model-11,Beauty,1064.59,337
+PROD0399,Shampoo Model-18,Beauty,1696.21,55
+PROD0400,Vase Model-57,Home Decor,542.72,195
+PROD0401,Saree Model-48,Clothing,3139.92,475
+PROD0402,Face Wash Model-78,Beauty,2009.46,180
+PROD0403,Jackets Model-22,Clothing,2519.51,408
+PROD0404,Shampoo Model-52,Beauty,562.03,149
+PROD0405,Sofa Cover Model-18,Home Decor,2813.82,84
+PROD0406,Lipstick Model-75,Beauty,1655.39,454
+PROD0407,Dress Model-85,Clothing,2907.13,418
+PROD0408,Laptop Model-12,Electronics,46801.63,125
+PROD0409,Headphones Model-40,Electronics,55736.63,150
+PROD0410,Dress Model-20,Clothing,521.72,15
+PROD0411,Sofa Cover Model-47,Home Decor,1775.69,60
+PROD0412,Shampoo Model-92,Beauty,239.08,203
+PROD0413,Moisturizer Model-27,Beauty,803.6,123
+PROD0414,Powerbank Model-63,Electronics,49131.41,203
+PROD0415,Bedsheet Model-39,Home Decor,6806.09,497
+PROD0416,Wall Clock Model-41,Home Decor,1805.38,63
+PROD0417,Laptop Model-97,Electronics,52676.44,410
+PROD0418,Dress Model-58,Clothing,2229.45,483
+PROD0419,Saree Model-90,Clothing,322.36,73
+PROD0420,Face Wash Model-34,Beauty,272.45,99
+PROD0421,Jeans Model-26,Clothing,639.51,279
+PROD0422,Jeans Model-74,Clothing,589.21,382
+PROD0423,Moisturizer Model-31,Beauty,1845.93,458
+PROD0424,Saree Model-32,Clothing,2541.65,166
+PROD0425,Wall Clock Model-83,Home Decor,3696.52,311
+PROD0426,Jackets Model-71,Clothing,596.06,430
+PROD0427,Sofa Cover Model-58,Home Decor,1508.58,423
+PROD0428,Lipstick Model-74,Beauty,1582.08,260
+PROD0429,Shampoo Model-71,Beauty,196.56,58
+PROD0430,Lipstick Model-20,Beauty,1933.32,280
+PROD0431,Vase Model-78,Home Decor,1391.83,188
+PROD0432,Jackets Model-58,Clothing,2015.51,368
+PROD0433,Moisturizer Model-58,Beauty,1471.03,302
+PROD0434,Face Wash Model-52,Beauty,471.14,453
+PROD0435,Shampoo Model-29,Beauty,2302.91,154
+PROD0436,Smartphone Model-74,Electronics,55182.1,292
+PROD0437,Sofa Cover Model-61,Home Decor,7420.39,148
+PROD0438,Moisturizer Model-59,Beauty,1300.45,321
+PROD0439,Smartwatch Model-14,Electronics,74446.73,60
+PROD0440,Smartwatch Model-82,Electronics,13433.64,469
+PROD0441,Moisturizer Model-54,Beauty,1347.58,34
+PROD0442,Moisturizer Model-99,Beauty,285.61,97
+PROD0443,Lipstick Model-41,Beauty,719.53,172
+PROD0444,Headphones Model-90,Electronics,53432.08,494
+PROD0445,Laptop Model-43,Electronics,45999.52,394
+PROD0446,Jackets Model-41,Clothing,2527.95,209
+PROD0447,T-Shirt Model-24,Clothing,3152.6,102
+PROD0448,Lipstick Model-85,Beauty,2439.24,186
+PROD0449,Powerbank Model-34,Electronics,65886.45,422
+PROD0450,Saree Model-42,Clothing,2859.8,389
+PROD0451,Perfume Model-49,Beauty,1874.74,357
+PROD0452,Smartphone Model-91,Electronics,43586.96,413
+PROD0453,Curtain Model-44,Home Decor,6040.09,282
+PROD0454,Moisturizer Model-10,Beauty,2469.51,292
+PROD0455,Face Wash Model-22,Beauty,314.13,314
+PROD0456,Perfume Model-63,Beauty,1688.12,461
+PROD0457,Shampoo Model-32,Beauty,1030.43,445
+PROD0458,Jeans Model-72,Clothing,973.34,216
+PROD0459,Smartwatch Model-82,Electronics,61356.23,254
+PROD0460,Jeans Model-17,Clothing,3074.69,313
+PROD0461,Jackets Model-62,Clothing,1930.7,75
+PROD0462,Laptop Model-20,Electronics,23044.73,142
+PROD0463,Face Wash Model-45,Beauty,301.02,14
+PROD0464,Powerbank Model-40,Electronics,36625.44,361
+PROD0465,Smartphone Model-17,Electronics,21056.94,272
+PROD0466,Powerbank Model-15,Electronics,8617.88,375
+PROD0467,Smartwatch Model-87,Electronics,39725.45,89
+PROD0468,Sofa Cover Model-70,Home Decor,6103.91,346
+PROD0469,Moisturizer Model-57,Beauty,1752.37,74
+PROD0470,Wall Clock Model-40,Home Decor,7539.73,83
+PROD0471,Lipstick Model-88,Beauty,284.52,203
+PROD0472,Wall Clock Model-22,Home Decor,224.06,300
+PROD0473,Shampoo Model-13,Beauty,1564.49,386
+PROD0474,Curtain Model-57,Home Decor,3724.96,146
+PROD0475,Perfume Model-62,Beauty,1701.54,37
+PROD0476,Headphones Model-12,Electronics,48082.63,480
+PROD0477,Headphones Model-96,Electronics,34156.5,381
+PROD0478,Lipstick Model-88,Beauty,2015.81,337
+PROD0479,Sofa Cover Model-70,Home Decor,7897.6,199
+PROD0480,Smartwatch Model-47,Electronics,46127.27,372
+PROD0481,Dress Model-83,Clothing,3203.99,408
+PROD0482,Laptop Model-73,Electronics,60066.33,137
+PROD0483,Vase Model-69,Home Decor,1510.81,357
+PROD0484,Face Wash Model-71,Beauty,1707.21,321
+PROD0485,Jeans Model-37,Clothing,930.6,224
+PROD0486,Smartphone Model-65,Electronics,74512.07,371
+PROD0487,Laptop Model-51,Electronics,67844.67,244
+PROD0488,Curtain Model-42,Home Decor,5394.27,103
+PROD0489,Laptop Model-78,Electronics,48065.79,234
+PROD0490,Face Wash Model-98,Beauty,932.08,191
+PROD0491,Dress Model-86,Clothing,539.27,418
+PROD0492,Sofa Cover Model-58,Home Decor,5300.57,249
+PROD0493,Shampoo Model-38,Beauty,758.87,267
+PROD0494,Bedsheet Model-24,Home Decor,895.29,156
+PROD0495,T-Shirt Model-83,Clothing,1660.63,151
+PROD0496,Sofa Cover Model-83,Home Decor,5947.96,497
+PROD0497,Bedsheet Model-85,Home Decor,4377.7,229
+PROD0498,Lipstick Model-50,Beauty,1962.51,276
+PROD0499,Dress Model-94,Clothing,2525.99,492
+PROD0500,T-Shirt Model-60,Clothing,334.0,377
